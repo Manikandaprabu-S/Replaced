@@ -21,5 +21,10 @@ public class Replaced {
 		}
 		String o = a.replace("gmail", "yahoo");
 		System.out.println(o);
+		
+		System.out.println(1);
+		System.out.println(4);
+		System.out.println(3);
+		System.out.println(2);
 	}
 }
